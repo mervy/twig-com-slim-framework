@@ -1,0 +1,19 @@
+{
+    "name": "mervy/twig-com-slim-framework",
+    "description": "Curso de Twig com Slim Framework - Módulo 01 - Canal Clube Full-Stack",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Rogério Soares",
+            "email": "rgrsoares@yahoo.com.br"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "Mervy\\TwigWithSlimFramework\\": "app/"
+        }
+    },
+    "require": {
+        "php": "^8.1"
+    }
+}
